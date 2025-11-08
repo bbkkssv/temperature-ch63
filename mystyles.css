@@ -1,0 +1,18 @@
+body {
+  font-family: arial;
+}
+
+div {
+  height: 100px;
+  padding: 20px;
+}
+
+.cold {
+  color: blue;
+  background-image: url("https://www.shutterstock.com/image-vector/natural-winter-christmas-background-sky-600nw-1199693014.jpg");
+}
+
+.hot {
+  color: red;
+  background-image: url("https://media.istockphoto.com/id/1257088461/photo/glowing-sun-on-orange-sky.jpg?s=612x612&w=0&k=20&c=PIPUiJTgQsm0ER7KVKK2vUMkaqu8v47I8WQvaR5bzto=");
+}
