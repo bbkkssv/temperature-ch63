@@ -2,10 +2,11 @@ body {
   font-family: arial;
 }
 
-div {
-  height: 100px;
-  padding: 20px;
+/*div {
+  height: 10px;
+  padding: 10px;
 }
+*/
 
 .cold {
   color: blue;
@@ -15,4 +16,19 @@ div {
 .hot {
   color: red;
   background-image: url("https://media.istockphoto.com/id/1257088461/photo/glowing-sun-on-orange-sky.jpg?s=612x612&w=0&k=20&c=PIPUiJTgQsm0ER7KVKK2vUMkaqu8v47I8WQvaR5bzto=");
+}
+
+#thermo {
+  width: 10px;
+  height: 200px;
+  border-radius: 10px;
+  border: 1px solid black;
+  margin-bottom: 20px;
+}
+
+.level {
+  background-color: red; 
+  height: 19px;
+  width: 10px;
+  margin: 1px;
 }
